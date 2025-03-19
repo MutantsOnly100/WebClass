@@ -1,4 +1,3 @@
-WebClass
 This project, completed by my team and me during our C# bootcamp in 2019, is a website designed for an online class system.
 
 Project Concept:
@@ -15,22 +14,24 @@ Analyze user course preferences in the backend to provide personalized and relev
 
 My Contributions:
 
-Member Registration Verification
-Member Profile Update Verification
-Advanced Course Search
-Teacher View of Course Enrollment Students
-User Personal Page
-Homepage Course Recommendations
-Logo Design
+Member Registration Verification, Member Profile Update Verification, Advanced Course Search, Teacher View of Course Enrollment Students, User Personal Page, Homepage Course Recommendations, Logo Design
 
 Technologies Used:
 
 Visual Studio: The IDE we used for developing the application.
+
 SQL Server: A relational database management system for storing and managing data.
+
 Bootstrap 4: A front-end framework for building responsive, mobile-first websites.
+
 .NET ASP.NET MVC: A framework for creating web applications using the Model-View-Controller architecture.
+
 Entity Framework: An ORM (Object-Relational Mapping) framework for simplifying database operations.
+
 jQuery: A JavaScript library that makes DOM manipulation, event handling, and Ajax calls easier.
+
 HTML: The markup language for structuring web pages and content.
+
 JavaScript: A programming language used to create interactive elements and dynamic behavior on web pages.
+
 CSS: A stylesheet language used for designing and laying out web page elements.
